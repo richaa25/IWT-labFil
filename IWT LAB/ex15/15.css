@@ -1,0 +1,25 @@
+body{
+	background-color:#F4B183;
+	background-image:radial-gradient(#867070,#D5B4B4,#E4D0D0),url("1.jpeg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:bottom;
+	}
+h1{
+	font-weight:bolder;
+	font-size:30px;
+	color:rgb(156, 111, 154);
+	}
+p   {
+	font-size:15px;
+	color:rgb(90,25,190);
+	line-height:50px;
+	}
+span{
+	background-color:yellow;
+	}
+h2  {
+	line-height:20px;
+	color:rgb(23,25,230);
+	}
+	
